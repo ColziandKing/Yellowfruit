@@ -1,0 +1,11 @@
+[
+  {
+		"name": "Great Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Requires at least [5] population","Excess Food converted to Production when under construction",
+			    "Can instantly construct a [Ancient ruins] improvement <by consuming this unit>",
+			    "Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>"],
+		"cost": 200
+	} 
+]
