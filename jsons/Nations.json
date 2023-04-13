@@ -3,7 +3,7 @@
 		"name": "Batanes",
 		"leaderName": "Datu Lapu Lapu",
 		"adjective": ["Pilipinas Tayo"],
-          	"startBias": ["Coast"],
+          	"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 	  
 		"startIntroPart1": "O",
@@ -20,12 +20,9 @@
 			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
-		"uniqueName": "Ijang",
-		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Construction]","Starts with [Currency]",
-			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
-			    "Military Units gifted from City-States start with [+100] XP", "[-25]% Culture cost of adopting new Policies", 
-			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States",
-			    "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"],
-		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
+		"uniqueName": "Ijang Defense",
+		"uniques": ["[+100]% Strength for cities <when attacking>","[+100]% Health for cities <when defending>",
+			    "Military Units gifted from City-States start with [+50] XP", "[-25]% Culture cost of adopting new Policies", 
+			    "May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]
 	}
 ]
