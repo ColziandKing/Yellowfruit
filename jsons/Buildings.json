@@ -70,5 +70,16 @@
 		"uniques": ["Hidden when religion is disabled",
 			    "Provides [2] [Jewelry]","Double quantity of [Jewelry] produced",
 			    "Provides [2] [Porcelain]","Double quantity of [Porcelain] produced"]
+	},
+	{
+		"name": "Ijang Castle",
+		"requiredBuilding": "Walls",
+		"cost": 70,
+		"uniqueTo": "Batanes",
+		"cityStrength": 50,
+		"cityHealth": 150,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	}
   ]
