@@ -28,9 +28,10 @@
         "uniques": ["[+1 Food, +1 Science, +1 Culture] [in this city]"]
     },
   {
-        "name": "Creations of Faith",
+        "name": "Communities of Faith",
         "type": "Follower"
-        "uniques": ["May choose [1] additional belief(s) of any type when [enhancing] a religion"
+        "uniques": ["May choose [1] additional belief(s) of any type when [enhancing] a religion",
+	  	    "[+100]% Natural religion spread [in all cities]",
                     "May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
     }
 ]
