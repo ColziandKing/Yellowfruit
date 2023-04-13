@@ -30,7 +30,7 @@
   {
         "name": "Communities of Faith",
         "type": "Follower"
-        "uniques": ["May choose [1] additional belief(s) of any type when [enhancing] a religion",
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]",
 	  	    "[+100]% Natural religion spread [in all cities]",
                     "May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
     },
