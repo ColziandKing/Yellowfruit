@@ -40,5 +40,35 @@
 		"hurryCostModifier": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+	},
+	{
+		"name": "Stronghold",
+		"replaces": "Barracks",
+		"hurryCostModifier": 35,
+		"gold": 200,
+		"science": 3,
+		"maintenance": 5,
+		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion","Gain a free [Krepost] [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+        	"name": "More Resources",
+        	"isNationalWonder": "true",
+        	"cost": -1,
+        	"uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","Only available [Palace] in this city","Will not be displayed in Civilopedia"], 
+		"quote": "'Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.' - Bible 2 Corinthians 9:6-8"
+   	 },
+	{
+		"name": "Ceramic Forge",
+		"culture": 2,
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled",
+			    "Provides [2] [Jewelry]","Double quantity of [Jewelry] produced",
+			    "Provides [2] [Porcelain]","Double quantity of [Porcelain] produced"]
 	}
   ]
