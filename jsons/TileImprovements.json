@@ -82,7 +82,7 @@
 	{
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Can be built outside your borders","Unpillagable"],
+		"uniques": ["Can be built outside your borders","Unpillagable", "Provides a random bonus when entered"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
   ]
