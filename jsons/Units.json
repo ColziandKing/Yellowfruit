@@ -7,5 +7,14 @@
 			    "Can instantly construct a [Ancient ruins] improvement <by consuming this unit>",
 			    "Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>"],
 		"cost": 200
-	} 
+	},
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population","Limited to [5] per Civilization"],
+		"hurryCostModifier": 20
+	}
 ]
