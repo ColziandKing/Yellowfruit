@@ -52,7 +52,8 @@
   {
 		"name": "Sacred altar",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 1,
-		"uniques": ["Tile provides yield without assigned population"]
+		"faith": 2,
+	  	"science": 1,
+		"uniques": ["Tile provides yield without assigned population","[+1 Culture] once [Archaeology] is discovered"]
 	}
   ]
