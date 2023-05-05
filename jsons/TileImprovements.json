@@ -52,8 +52,9 @@
   {
 		"name": "Sacred altar",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 2,
-	  	"science": 1,
-		"uniques": ["Tile provides yield without assigned population","[+1 Culture] once [Archaeology] is discovered"]
+		"faith": 1,
+	  	"turnsToBuild": 10,
+		"techRequired": "Calendar",
+		"uniques": ["Tile provides yield without assigned population","[+1 Science] <after discovering [Education]>","[+1 Culture] once [Archaeology] is discovered"]
 	}
   ]
